@@ -2,24 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: MIRAI VISION LAB # the website title (if blank, full name will be used instead)
+first_name: MIRAI
+middle_name: VISION
+last_name: LAB
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out for research collaborations, student opportunities, or general inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  MIRAI VISION LAB - Advanced Research Laboratory specializing in Computer Vision, Artificial Intelligence, and Machine Learning. 
+  Pioneering innovative solutions in visual computing and intelligent systems.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  © 2026 MIRAI VISION LAB. All rights reserved.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+  Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: computer vision, artificial intelligence, machine learning, research lab, academic research, deep learning, image processing, visual computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://berabiswa46.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -93,9 +94,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: MIRAI VISION LAB News # blog_name will be displayed in your blog page
+blog_description: Latest updates, research breakthroughs, and lab activities
+permalink: /news/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination

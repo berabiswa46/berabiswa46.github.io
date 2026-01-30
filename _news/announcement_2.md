@@ -1,12 +1,30 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Paper Accepted at CVPR 2026
+date: 2026-02-28 10:00:00
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+We're thrilled to announce that our paper "Advanced Neural Architectures for Medical Image Segmentation" has been accepted at CVPR 2026! This work presents a novel approach to multi-organ segmentation achieving state-of-the-art performance.
+
+***
+
+**Abstract**: We propose a new deep learning framework that combines attention mechanisms with multi-scale feature extraction for accurate medical image segmentation. Our method achieves significant improvements over existing approaches while maintaining computational efficiency.
+
+**Key Contributions**:
+- Novel attention-based architecture for medical imaging
+- Multi-scale feature fusion strategy
+- State-of-the-art results on multiple benchmark datasets
+- Real-time inference capability
+
+**Authors**: [Student Name], [PhD Student], [Professor Name]
+
+**Conference**: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+
+**Results**: Our method achieves 95.3% Dice coefficient on the benchmark dataset, surpassing previous state-of-the-art by 3.2%.
+
+Stay tuned for the camera-ready version and code release on our GitHub!
 
 ---
 

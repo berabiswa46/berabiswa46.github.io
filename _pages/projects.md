@@ -1,16 +1,24 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore our cutting-edge research projects in computer vision and AI
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [ongoing, completed]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
 <div class="projects">
+  
+<div class="research-intro" style="text-align: center; margin: 2rem 0 3rem 0;">
+  <p style="font-size: 1.1rem; color: #555; max-width: 800px; margin: 1rem auto;">
+    Our research spans multiple domains of computer vision and artificial intelligence, 
+    from fundamental algorithms to real-world applications. Below are some of our active and completed projects.
+  </p>
+</div>
+
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}

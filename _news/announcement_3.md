@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-02-01 14:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+🏆 Our team won Best Demo Award at ICML 2026 for our real-time 3D reconstruction system!
